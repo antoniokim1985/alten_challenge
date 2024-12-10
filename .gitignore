@@ -1,3 +1,5 @@
 venv/
-src/execution_results/
+src/execution_results/logs
+src/execution_results/screenshots
+src/execution_results/reports
 *.cpython-310.pyc
