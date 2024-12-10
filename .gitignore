@@ -1,0 +1,3 @@
+venv/
+src/execution_results/
+*.cpython-310.pyc
